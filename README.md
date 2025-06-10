@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
+- 💬 Ask me about anything related to Python.
 - 📫 How to reach me: PastWill@163.com
 
 
