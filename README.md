@@ -11,8 +11,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Past-Tang)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/Past-Tang/count.svg) visitor,Thank You!
-
 ### My Skill Set
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
