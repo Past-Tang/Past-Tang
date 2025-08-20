@@ -1,5 +1,3 @@
-### 你好 👋<a href="https://github.com/Past-Tang/"><img align="right" src="https://komarev.com/ghpvc/?username=Past-Tang&label=Views"></a>
-
 <table align="center">
     <tr>
         <td align="center">
