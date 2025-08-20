@@ -1,17 +1,16 @@
+### 你好 👋<a href="https://github.com/Past-Tang/"><img align="right" src="https://komarev.com/ghpvc/?username=Past-Tang&label=Views"></a>
 
-
-
-### Hi there 👋,I'm Past-Tang.
-
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Python.
-- 📫 How to reach me: PastWill@163.com
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Past-Tang)
-
-### My Skill Set
-
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+<table align="center">
+    <tr>
+        <td align="center">
+          <picture>
+            <img src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=Past-Tang&show_icons=true&include_all_commits=true">
+          </picture>
+        </td>
+        <td align="center">
+          <picture>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Past-Tang&layout=compact&langs_count=12">
+          </picture>
+        </td>
+    </tr>
+</table>
