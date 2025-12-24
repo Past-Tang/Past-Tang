@@ -21,4 +21,8 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" title="node">
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Past-Tang&layout=compact)
+**Me:**
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Past-Tang&layout=compact)
+</div>
+
