@@ -21,7 +21,4 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" title="node">
 </div>
 
-**GitHub Stats:**
-
-![Han's Github Stats](https://github-readme-stats.vercel.app/api?username=Past-Tang&show_icons=true&hide_title=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Past-Tang&layout=compact)
