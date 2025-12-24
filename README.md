@@ -22,8 +22,6 @@
 </div>
 
 **Me:**
-<div align="center">
- 
-</div>
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Past-Tang&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Past-Tang&layout=compact" alt="Top Langs">
+</p>
