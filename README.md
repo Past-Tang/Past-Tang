@@ -44,7 +44,7 @@
 
 ### GitHub Stats
 
-<div align="center">
+<div >
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Past-Tang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" alt="GitHub Stats"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Past-Tang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" alt="Top Languages"/>
 </div>
@@ -53,7 +53,7 @@
 
 <br/>
 
-<div align="center">
+<div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Past-Tang&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%" alt="Activity Graph"/>
 </div>
 
