@@ -51,10 +51,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Past-Tang&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="520" alt="GitHub Streak"/>
-</div>
-
 <br/>
 
 <div align="center">
