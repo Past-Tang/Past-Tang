@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Python+%2F+JavaScript+%2F+Vue.js+%2F+Node.js;Solana+%2F+Bitcoin+%2F+DeFi+Tooling;YOLO+%2F+LLM+%2F+OCR+%2F+Automation" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Past-Tang&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
-
 </div>
 
 ---
