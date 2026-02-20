@@ -1,14 +1,15 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Tang&fontSize=75&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20Blockchain%20%7C%20AI&descSize=18&descColor=8b949e&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=Tang&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Blockchain%20%7C%20AI&descSize=16&descColor=8b949e&descAlignY=58" width="100%"/>
 
-<!-- Typing SVG -->
-<a href="https://github.com/Past-Tang">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E8%BA%BA%E5%B9%B3%E3%80%82;Python+%2F+JavaScript+%2F+Vue.js+%2F+Node.js;Solana+%2F+Bitcoin+%2F+DeFi+Tooling;YOLO+%2F+LLM+%2F+OCR+%2F+Browser+Automation" alt="Typing SVG" />
-</a>
+<br/>
 
-<!-- Visitor Badge -->
+# 躺平。
+
+*-- 加油*
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=Past-Tang&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
 
 </div>
@@ -16,11 +17,6 @@
 ---
 
 ### About Me
-
-```text
-                  -- 加油
-躺平。
-```
 
 - **Python / JavaScript / TypeScript / Vue.js / Node.js**
 - **Solana / Bitcoin** 链上工具开发
@@ -59,6 +55,8 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Past-Tang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" alt="Top Languages"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Past-Tang&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="520" alt="GitHub Streak"/>
 </div>
@@ -67,19 +65,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Past-Tang&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Past-Tang&theme=tokyonight" width="95%" alt="Profile Details"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Past-Tang&theme=tokyonight" height="160" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Past-Tang&theme=tokyonight" height="160" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Past-Tang&theme=tokyonight" height="160" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Past-Tang&theme=tokyonight&utcOffset=8" height="160" alt="Productive Time"/>
 </div>
 
 ---
@@ -96,14 +81,9 @@
 | [browser-auto-captcha](https://github.com/Past-Tang/browser-auto-captcha) | 浏览器自动化验证码识别 | Playwright, YOLO |
 | [YOLO-Soccer-Track](https://github.com/Past-Tang/YOLO-Soccer-Track) | 足球比赛目标检测与追踪 (TOP2) | YOLOv8 |
 | [Prompt4SA](https://github.com/Past-Tang/Prompt4SA) | ICCV MARS2 VQA-SA 竞赛方案 | InternVL3, vLLM |
-| [solana-monitor-toolkit](https://github.com/Past-Tang/solana-monitor-toolkit) | Solana 链上监控工具集 | Python |
-| [proxy-ip-pool](https://github.com/Past-Tang/proxy-ip-pool) | 代理 IP 池管理系统 | Python, Flask |
 
 ---
 
 <div align="center">
-
-<!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" width="100%"/>
-
 </div>
