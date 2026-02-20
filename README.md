@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Tang&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Blockchain%20%7C%20AI&descSize=16&descColor=8b949e&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=Tang&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20%7C%20Blockchain%20%7C%20AI&descSize=16&descColor=8b949e&descAlignY=68" width="100%"/>
 
 <a href="https://github.com/Past-Tang">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Python+%2F+JavaScript+%2F+Vue.js+%2F+Node.js;Solana+%2F+Bitcoin+%2F+DeFi+Tooling;YOLO+%2F+LLM+%2F+OCR+%2F+Automation" alt="Typing SVG" />
